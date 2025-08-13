@@ -1,73 +1,58 @@
-# Welcome to your Lovable project
+# 🗡️ SwordWeapon Portfolio
 
-## Project info
+## 🛡️ Sobre o Projeto
 
-**URL**: https://lovable.dev/projects/24441010-e22c-4544-b364-f9eeac2fc8b5
+Portfólio pessoal de Matheus (SwordWeapon), especialista em Qualidade de Software com temática medieval inspirada no universo de Tibia.
 
-## How can I edit this code?
+Este site apresenta a jornada e experiência profissional de um verdadeiro "Guardião da Qualidade Digital".
 
-There are several ways of editing your application.
+## 🏰 Como executar o projeto
 
-**Use Lovable**
+### Pré-requisitos
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/24441010-e22c-4544-b364-f9eeac2fc8b5) and start prompting.
+- Node.js instalado ([instalar com nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
+- npm ou yarn
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+### Instalação e execução
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Clone o repositório
+git clone https://github.com/SwordWeapon/portfolio.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Entre no diretório do projeto
+cd portfolio
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Instale as dependências
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Execute o projeto em modo de desenvolvimento
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+O projeto estará disponível em `http://localhost:5173`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## ⚔️ Tecnologias Utilizadas
 
-**Use GitHub Codespaces**
+Este projeto foi construído com:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Vite** - Build tool rápido e moderno
+- **TypeScript** - JavaScript tipado para maior robustez
+- **React** - Biblioteca para interfaces de usuário
+- **Tailwind CSS** - Framework CSS utilitário
+- **shadcn/ui** - Componentes modernos e acessíveis
 
-## What technologies are used for this project?
+## 🎯 Funcionalidades
 
-This project is built with:
+- ✨ Design temático medieval inspirado em Tibia
+- 📱 Layout responsivo para todos os dispositivos
+- 🎨 Paleta de cores douradas e bronze
+- 🗡️ Tipografia medieval personalizada
+- 🛡️ Seções organizadas: Sobre, Projetos e Contato
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📝 Licença
 
-## How can I deploy this project?
+© 2024 SwordWeapon - Todos os direitos reservados.
 
-Simply open [Lovable](https://lovable.dev/projects/24441010-e22c-4544-b364-f9eeac2fc8b5) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+*"Nas vastas terras do Reino Digital, um cavaleiro defende a qualidade das criações tecnológicas com a precisão de uma espada bem afiada."*
